@@ -1,8 +1,8 @@
 # relataly-public-python-api-tutorials
-Welcome to the GitHub API tutorial directory of the relataly.com python machine learning blog!
+Welcome to the GitHub API tutorial directory of the relataly.com blog on python machine learning!
 
 The files listed in this directory are all Jupyter notebook files. 
 
-Each file represents a separate Python project and is described in more detail in a blog post. 
+Each file represents a separate Python project that is described in a separate blog article. 
 
-Please visit www.relataly.com to access the blog posts.
+Please visit www.relataly.com to access the blog articles.
